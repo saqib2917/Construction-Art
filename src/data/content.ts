@@ -11,15 +11,15 @@ export const content = {
     hero: {
       title: 'Construction Art',
       subtitle: 'For General Contracting',
-      description: 'Excellence in construction with 5+ years of experience in Saudi Arabia',
+      description: 'Delivering high-quality construction solutions with precision, innovation, and trust',
       cta: 'Get Quote',
       supervisor: 'Supervisor: Thair Mehmood'
     },
     about: {
       title: 'About Construction Art',
       subtitle: 'Building Excellence Since 2019',
-      description: 'Construction Art For General Contracting is a leading construction company based in Al Khobar, Saudi Arabia. With over 5 years of experience, we specialize in delivering high-quality construction solutions across various sectors.',
-      experience: '5+ Years Experience',
+      description: 'Construction Art For General Contracting is a leading construction company based in Al Khobar, Saudi Arabia. With over 15 years of experience, we specialize in delivering high-quality construction solutions across various sectors.',
+      experience: '15+ Years Experience',
       projects: '100+ Projects Completed',
       clients: '50+ Satisfied Clients',
       safety: '100% Safety Record'
@@ -118,7 +118,7 @@ export const content = {
       supervisor: {
         name: 'Thair Mehmood',
         position: 'Project Supervisor',
-        experience: '5+ Years Experience',
+        experience: '15+ Years Experience',
         specialization: 'General Contracting & Project Management'
       }
     },
@@ -157,15 +157,15 @@ export const content = {
     hero: {
       title: 'مؤسسة الانشاءات ارت',
       subtitle: 'للمقاولات العامة',
-      description: 'التميز في البناء مع أكثر من 5 سنوات من الخبرة في المملكة العربية السعودية',
+      description: 'تقديم حلول بناء عالية الجودة بدقة وابتكار وثقة',
       cta: 'احصل على عرض سعر',
       supervisor: 'مشرف انشاء مباني: طاهر محمود'
     },
     about: {
       title: 'عن مؤسسة الانشاءات ارت',
       subtitle: 'نبني التميز منذ 2019',
-      description: 'مؤسسة الانشاءات ارت للمقاولات العامة هي شركة إنشاءات رائدة مقرها في الخبر، المملكة العربية السعودية. مع أكثر من 5 سنوات من الخبرة، نتخصص في تقديم حلول البناء عالية الجودة عبر قطاعات مختلفة.',
-      experience: 'أكثر من 5 سنوات خبرة',
+      description: 'مؤسسة الانشاءات ارت للمقاولات العامة هي شركة إنشاءات رائدة مقرها في الخبر، المملكة العربية السعودية. مع أكثر من 15 سنوات من الخبرة، نتخصص في تقديم حلول البناء عالية الجودة عبر قطاعات مختلفة.',
+      experience: 'أكثر من 15 سنوات خبرة',
       projects: 'أكثر من 100 مشروع مكتمل',
       clients: 'أكثر من 50 عميل راضي',
       safety: '100% سجل أمان'
@@ -259,38 +259,12 @@ export const content = {
       }
     },
     team: {
-      title: 'Our Team',
-      subtitle: 'Expert Professionals',
-      supervisor: {
-        name: 'Thair Mehmood',
-        position: 'Project Supervisor',
-        experience: '5+ Years Experience',
-        specialization: 'General Contracting & Project Management'
-      }
-    },
-    contact: {
-      title: 'Contact Us',
-      subtitle: 'Get In Touch',
-      address: 'Al Khobar Street 19, Saudi Arabia',
-      email: 'al.Anshaat.gen.cont@gmail.com',
-      phone1: '+966 592 587 562',
-      phone2: '+966 561 109 123',
-      form: {
-        name: 'Full Name',
-        email: 'Email Address',
-        phone: 'Phone Number',
-        service: 'Service Required',
-        message: 'Project Details',
-        submit: 'Send Message'
-      }
-    },
-    team: {
       title: 'فريقنا',
       subtitle: 'محترفون خبراء',
       supervisor: {
         name: 'طاهر محمود',
         position: 'مشرف المشروع',
-        experience: 'أكثر من 5 سنوات خبرة',
+        experience: 'أكثر من 15 سنوات خبرة',
         specialization: 'المقاولات العامة وإدارة المشاريع'
       }
     },

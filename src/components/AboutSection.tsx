@@ -29,7 +29,7 @@ const AboutSection: React.FC<AboutSectionProps> = ({ content }) => {
           }`}
         >
           <h2 className="text-4xl lg:text-5xl font-bold text-slate-900 mb-4">
-            About Construction Art
+            {content.about.title}
           </h2>
           <p className="text-xl text-blue-600 font-semibold gradient-text">
             {content.about.subtitle}
@@ -55,7 +55,7 @@ const AboutSection: React.FC<AboutSectionProps> = ({ content }) => {
               }`}
             >
               {[
-                { number: '5+', label: content.about.experience, delay: '0s' },
+                { number: '15+', label: content.about.experience, delay: '0s' },
                 { number: '100+', label: content.about.projects, delay: '0.1s' },
                 { number: '50+', label: content.about.clients, delay: '0.2s' },
                 { number: '100%', label: content.about.safety, delay: '0.3s' }
